@@ -1,1 +1,1 @@
-# fruit-ninja
+# cut-the-fruits
